@@ -1,0 +1,24 @@
+{
+  "login": [
+    {
+      "user": "venkat",
+      "password": "venkat123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "FizzaHutttt",
+      "email": "gg@gmail.com",
+      "rating": "4.5",
+      "address": "kukatpally",
+      "id": 1
+    },
+    {
+      "name": "Mec Donalds",
+      "email": "mec@gmail.com",
+      "rating": "5",
+      "address": "Hyderabad",
+      "id": 2
+    }
+  ]
+}
